@@ -9,13 +9,16 @@ Conceitos abordado nesta aplicação:
 
     - Evento onclick;
     - Document.querySelector();
-    - Manipular a tag ``audio`` através do Javascript;
+    - Manipular a tag audio através do Javascript;
     - Função Javascript;
-    - Array do JavaScript, `listas`;
-    - Instru;cão `for`; 
+    - Array JavaScript;
+    - Instrucão for; 
     - Element.classList.
-
 
 ### 🔖 Web de layout
 
 Site da aplicação
+
+    https://akai-midi.netlify.app/
+    
+![image](https://user-images.githubusercontent.com/85380530/188525397-a8cb5aff-34e7-426e-a44d-2e092e675180.png)
